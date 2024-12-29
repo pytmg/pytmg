@@ -3,7 +3,7 @@
 <p align="center">Python Programmer</p>
 
 <div align="center">
-🔭 I’m currently working on <a href="https://github.com/pytmg/ideallang/tree/main">IdealLang</a><br>
+🔭 I’m currently working on <a href="https://github.com/pytmg/cli/tree/main">cli</a> (CLI Menu Module)<br>
 🌱 I’m currently learning <strong>Programming Language Development</strong><br>
 💬 Ask me about <strong>discord.py</strong><br>
 </div>
