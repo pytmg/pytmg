@@ -3,7 +3,7 @@
 <p align="center">Python Programmer</p>
 
 <div align="center">
-I’m currently working on <a href="https://github.com/pytmg/cli/tree/main">cli</a> (TUI Framework) and <a href="https://pytmg.github.com/Quantum">my Discord Bot</a> (Utility discord bot)<br>
+I’m currently working on <a href="https://github.com/pytmg/cli/tree/main">cli</a> (TUI Framework) and <a href="https://pytmg.github.io/Quantum">my Discord Bot</a> (Utility discord bot)<br>
 Website: https://pytmg.github.io/
 </div>
 
